@@ -18,7 +18,6 @@
 ---
 
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
 
 ![Ahtisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtisham0100&show_icons=true&theme=radical)
 
