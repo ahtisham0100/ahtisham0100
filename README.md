@@ -1,8 +1,8 @@
 # Hi, I'm Ahtisham! 👋
 
 🎯 **Software Engineering Student** at NUST  
-💻 Aspiring Frontend Developer | Passionate about AI + Web  
-🌍 Based in Pakistan | [atishcodes Instagram](https://www.instagram.com/atishcodes)
+💻 Frontend Developer | Passionate about AI + Web  
+🌍 Based in Pakistan 
 
 ---
 
@@ -19,21 +19,16 @@
 
 
 ## 📈 GitHub Stats & Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahtisham0100&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham0100&layout=compact&theme=radical)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ahtisham0100&theme=radical)
 
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)
 
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahtisham0100&theme=github)
 
-![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahtisham0100&theme=github)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahtisham0100&show_icons=true&theme=radical)
 
 ---
 
@@ -57,9 +52,7 @@
 
 ## 💬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/atishcodes)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](mailto:ahtisham0100@gmail.com)
 
 ---
 
