@@ -19,8 +19,7 @@
 
 
 ## 📈 GitHub Stats & Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahtisham0100&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahtisham0100&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham0100&layout=compact&theme=radical)
 
@@ -28,8 +27,9 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahtisham0100&theme=react-dark&area=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ahtisham0100&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=ahtisham0100&theme=radical)
 
 ---
 
