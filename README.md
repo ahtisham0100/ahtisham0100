@@ -31,8 +31,6 @@
 
 ![Last Commit](https://img.shields.io/github/last-commit/ahtisham0100/your-repo-name?style=flat-square)
 
-![Release](https://img.shields.io/github/v/release/ahtisham0100/your-repo-name?style=flat-square)
-![Visitor Count](https://profile-counter.glitch.me/ahtisham0100/count.svg)
 
 ---
 
@@ -48,7 +46,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| **AnimeWeb** | An anime content platform w/ filtering, user auth, and state management | React, Tailwind, Express |
+| **AnimeWeb** | An anime content platform / filtering, user auth, and state management | React, Tailwind, Express |
 | **Watchdog** | AI-powered web monitoring & reporting app | Python, Flask, OpenAI |
 | **Dentist Appointment System** | Java Servlet based CRUD with MVC | Java, JSP, MySQL |
 
