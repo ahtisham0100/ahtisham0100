@@ -29,6 +29,10 @@
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahtisham0100&theme=github)
 
+![Last Commit](https://img.shields.io/github/last-commit/ahtisham0100/your-repo-name?style=flat-square)
+
+![Release](https://img.shields.io/github/v/release/ahtisham0100/your-repo-name?style=flat-square)
+![Visitor Count](https://profile-counter.glitch.me/ahtisham0100/count.svg)
 
 ---
 
