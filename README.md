@@ -14,9 +14,11 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
 ---
-
 
 ## 📈 GitHub Stats & Activity
 
@@ -24,13 +26,9 @@
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ahtisham0100&theme=radical)
 
-
-
-
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahtisham0100&theme=github)
 
 ![Last Commit](https://img.shields.io/github/last-commit/ahtisham0100/your-repo-name?style=flat-square)
-
 
 ---
 
@@ -54,9 +52,8 @@
 
 ## 💬 Connect With Me
 
-[![Email](mailto:ahtisham0100@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahtisham0100@gmail.com)
 
 ---
 
 > _“Learning never exhausts the mind.” – Leonardo da Vinci_
-
