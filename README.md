@@ -17,17 +17,19 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahtisham0100&show_icons=true&theme=gruvbox)
 
+## 📈 GitHub Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahtisham0100&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham0100&layout=compact&theme=radical)
 
 ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ahtisham0100&theme=radical)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahtisham0100&theme=react-dark&area=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahtisham0100&theme=radical)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)
 
 ---
 
