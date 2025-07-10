@@ -28,11 +28,12 @@
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ahtisham0100&theme=dark)
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahtisham0100&theme=github)
 
-![Contribution Graph](https://your-image-hosting.com/your-contributions.png)
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahtisham0100&theme=github)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahtisham0100&show_icons=true&theme=radical)
 
 ---
 
