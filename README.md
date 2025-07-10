@@ -18,9 +18,11 @@
 ---
 
 ## 📈 GitHub Stats
+## 📈 GitHub Stats
 
-![Ahtisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Ahtisham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahtisham0100&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham0100&layout=compact&theme=radical)
 
 ---
 
