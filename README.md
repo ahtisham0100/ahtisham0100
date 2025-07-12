@@ -24,7 +24,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham0100&layout=compact&theme=radical)
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ahtisham0100&theme=radical)
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahtisham0100&theme=github)
 
