@@ -27,14 +27,14 @@
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahtisham0100&theme=github)
 
-![Last Commit](https://img.shields.io/github/last-commit/ahtisham0100/your-repo-name?style=flat-square)
 
 <!--
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham0100&layout=compact&hide=html" alt="ahtisham0100"></div>
 -->
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahtisham0100&show_icons=true" alt="ahtisham0100" /></div>
----
+
+![Last Commit](https://img.shields.io/github/last-commit/ahtisham0100/your-repo-name?style=flat-square)
 
 ## Currently Learning
 
