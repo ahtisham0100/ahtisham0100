@@ -1,12 +1,12 @@
-# Hi, I'm Ahtisham! 👋
+# Hi, I'm Ahtisham! 
 
-🎯 **Software Engineering Student** at NUST  
-💻 Frontend Developer | Passionate about AI + Web  
-🌍 Based in Pakistan 
+ **Software Engineering Student** at NUST  
+ Frontend Developer | Passionate about AI + Web  
+ Pakistan 
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -20,7 +20,7 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahtisham0100&layout=compact&theme=radical)
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 - Deep Dive into React (Advanced Patterns, Performance, Architecture)
 - Web + AI Integration (LLMs, Prompt Engineering, APIs)
@@ -40,7 +40,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -50,7 +50,7 @@
 
 ---
 
-## 💬 Connect With Me
+## Connect With Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahtisham0100@gmail.com)
 
