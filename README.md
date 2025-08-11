@@ -22,6 +22,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn_ui-000000?style=flat&logo=react&logoColor=white)
+
 
 ---
 
