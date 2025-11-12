@@ -1,7 +1,7 @@
 # Hi, I'm Ahtisham! 
 
  **Software Engineering Student** at NUST  
- Frontend Developer | Passionate about AI + Web  
+ Fullstack Developer | Passionate about AI + Web  
  Pakistan 
 
 ---
